@@ -43,10 +43,12 @@
 5. Duplicate the `.env.example` and rename it to `.env`.
    
     ```ps
+    # Windows
     copy .env.example .env
     ```
 
     ```shell
+    # MacOS
     cp .env.example .env
     ```
 
