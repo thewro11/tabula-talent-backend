@@ -6,6 +6,7 @@
 1. Clone this repository into your local machine.
 
 2. Run the following command to initialize Python virtual environment.
+   
     ```ps
     # Windows
     py -3 -m venv .venv

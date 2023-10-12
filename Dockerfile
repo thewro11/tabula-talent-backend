@@ -46,4 +46,4 @@ COPY . /app
 EXPOSE 8001
 
 # Run the application.
-CMD flask --app ./app/app run --debug --host 0.0.0.0 --port 8001
+CMD flask --app ./app/App run --debug --host 0.0.0.0 --port 8001
