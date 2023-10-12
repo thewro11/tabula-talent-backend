@@ -42,6 +42,10 @@
 
 5. Duplicate the `.env.example` and rename it to `.env`.
    
+    ```ps
+    copy .env.example .env
+    ```
+
     ```shell
     cp .env.example .env
     ```
